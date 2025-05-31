@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'navbar';
+    src: url('./assets/fonts/TT Travels Next Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hero';
+    src: url('./assets/fonts/Coolvetica Rg.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
