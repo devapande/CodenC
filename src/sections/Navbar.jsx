@@ -9,7 +9,7 @@ export default function Navbar() {
             {/* Logo */}
             <div className="flex items-center space-x-2 pl-2 sm:pl-10">
                 <div className="w-8 h-8 flex items-center justify-center">
-                    <img src="src/assets/mini-logo.png" alt="mini-logo"/>
+                    <img src="/mini-logo.png" alt="mini-logo"/>
                 </div>
                 <span className="font-bold text-lg text-black">CodenC</span>
             </div>
@@ -25,7 +25,7 @@ export default function Navbar() {
             {/* Tombol Contact + Hamburger */}
             <div className="flex items-center space-x-4 pr-2 sm:pr-10">
                 <button className="bg-gray-100 hover:bg-gray-200 text-black font-semibold px-4 py-2 rounded-xl flex items-center space-x-2 text-sm">
-                    <img src="src/assets/headset.png" alt="headset" className="w-4 h-4"/>
+                    <img src="/headset.png" alt="headset" className="w-4 h-4"/>
                     <span>Contact</span>
                 </button>
 
